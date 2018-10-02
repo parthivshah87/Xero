@@ -1,4 +1,4 @@
-# QATesting
+
 1.	Download and Install Visual Studio 2017 (Community Edition)
 2.	Open QATesting.sln file from project home directory
 3.	Please add following references to Solution if it wouldn't added automatically.
